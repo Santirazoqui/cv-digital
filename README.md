@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Santiago</h1>
-<h3 align="center">A passionate sofware engineering student</h3>
+<h3 align="center">A passionate software engineering student</h3>
 
 - 🌱 I’m currently learning **Unity** - **Agile Methodologies** - **Software Architecture**
 
