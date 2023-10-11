@@ -5,6 +5,16 @@
 
 - 📫 How to reach me **irazoqui.santi@gmail.com**
 
+<img src="./Images/portrait.jpg" height="300px" align="left" margin="50px" />
+This is my portrait
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="auto">
 
