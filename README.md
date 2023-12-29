@@ -1,17 +1,16 @@
 <h1 align="center">Hello 👋, I'm Santiago</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
+- [CV Digital](#CV-Digital)
+- [Portfolio](#Portfolio)
 
+# CV Digital
 <img src="./Images/portrait.jpg" height="300px" align="left" margin="50px" />
 I have a passion for software engineering, philosophy, videogames and music. I believe what defines me as a person is my desire for knowledge, both in a professional view and for my everyday life. I always strive to improve my leadership. communication and teamworking skills.
-
-<br></br>
 
 - 🌱 I’m currently learning **Unity** - **Agile Methodologies** - **Software Architecture**
 
 - 📫 How to reach me **irazoqui.santi@gmail.com**
-<br></br>
-<br></br>
 <br></br>
 <br></br>
 <br></br>
@@ -84,3 +83,8 @@ I have a passion for software engineering, philosophy, videogames and music. I b
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santirazoqui&show_icons=true&locale=en&layout=compact" alt="santirazoqui" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santirazoqui&show_icons=true&locale=en" alt="santirazoqui" /></p>
+
+# Portfolio
+## Gamedev.tv Udemy Course
+### Tile Vania
+![TileVaniaImagen](./Images/Games/TileVania.png)
