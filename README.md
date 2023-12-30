@@ -85,7 +85,7 @@ I have a passion for software engineering, philosophy, videogames and music. I b
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santirazoqui&show_icons=true&locale=en" alt="santirazoqui" /></p>
 
 # Portfolio
-## Gamedev.tv Udemy Course
+## Gamedev.tv Udemy Course - Unity 2D game development
 ### Tile Vania
 ![TileVaniaImagen](./Images/Games/TileVania.png)
 ![TileVaniVideo1](./Videos/TileVaniaGame%201.gif)
