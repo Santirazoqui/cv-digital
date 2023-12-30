@@ -88,6 +88,6 @@ I have a passion for software engineering, philosophy, videogames and music. I b
 ## Gamedev.tv Udemy Course
 ### Tile Vania
 ![TileVaniaImagen](./Images/Games/TileVania.png)
-<video height="800" controls>
-  <source src="https://github.com/Santirazoqui/portfolio-digital/assets/71331155/45d6b989-a923-4dee-9416-c568835dc059" type="video/mp4">
+<video height="400" controls>
+  <source src="./Videos/TileVaniaGame.mp4" type="video/mp4">
 </video>
