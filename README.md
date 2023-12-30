@@ -88,4 +88,5 @@ I have a passion for software engineering, philosophy, videogames and music. I b
 ## Gamedev.tv Udemy Course
 ### Tile Vania
 ![TileVaniaImagen](./Images/Games/TileVania.png)
-![TileVaniVideo](./Videos/TileVaniaGame2.gif)
+![TileVaniVideo1](./Videos/TileVaniaGame%201.gif)
+![TileVaniVideo2](./Videos/TileVaniaGame2.gif)
