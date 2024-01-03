@@ -89,11 +89,15 @@
 # Portfolio
 ## Gamedev.tv Udemy Course - Unity 2D game development
 ### Snow Boarder
+Snow boarding game where the player needs to reach the end of the track while doind tricks. For the level layout we used sprite shapes. Some the most important lessons include using edge colliders, implementing effectors to push the player, creating particle effects with triggers, and playing around with the physics system.
+
 ![SnowBoarder1](./Videos/SnowBoarderGame1.gif)
 ![SnowBoarder2](./Videos/SnowBoarderGame2.gif)
 ![SnowBoarder3](./Videos/SnowBoarderGame3.gif)
 
 ### Tile Vania
+2D side-scrolling platformer. The player must jump and climb to avoid obstacles and enemies (or shoot them!) in order to reach the end of the level. A level loading system is used so that the when we finish a particular level, the following one is loaded, and so on. To create the levels we used the tilemap system in Unity. Other key aspects of this game include handling animations, persisting game sessions, and State-Driven cameras.
+
 ![TileVaniaImagen](./Images/Games/TileVania.png)
 ![TileVaniVideo1](./Videos/TileVaniaGame%201.gif)
 ![TileVaniVideo2](./Videos/TileVaniaGame2.gif)
