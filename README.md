@@ -6,9 +6,11 @@
 
 # CV Digital
 <img src="./Images/portrait.jpg" height="300px" align="left" margin="50px" />
-I have a passion for software engineering, philosophy, videogames and music. I believe what defines me as a person is my desire for knowledge, both in a professional view and for my everyday life. I always strive to improve my leadership. communication and teamworking skills.
+<p>
+  I have a passion for software engineering, philosophy, videogames and music. I believe what defines me as a person is my desire for knowledge, both in a professional view and for my everyday life. I always strive to improve my leadership. communication and teamworking skills.
+</p>
 <br></br>
-• 🌱 I’m currently learning **Unity** - **Agile Methodologies** - **Software Architecture**
+• 🌱 I’m currently learning <b>Unity</b> - <b>Agile Methodologies</b> - <b>Software Architecture</b>
 
 • 📫 How to reach me **irazoqui.santi@gmail.com**
 <br></br>
