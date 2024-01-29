@@ -89,14 +89,26 @@
 # Portfolio
 ## Gamedev.tv Udemy Course - Unity 2D game development
 ### Snow Boarder
-Snow boarding game where the player needs to reach the end of the track while doind tricks. For the level layout we used sprite shapes. Some the most important lessons include using edge colliders, implementing effectors to push the player, creating particle effects with triggers, and playing around with the physics system.
+Snowboarding game where the player needs to reach the end of the track while doing tricks. 
+Some of the key lessons include: 
+* Using sprite shapes for the level layout
+* Using edge colliders
+* Implementing effectors to push the player
+* Creating particle effects with triggers
+* Playing around with the physics system
 
 ![SnowBoarder1](./Videos/SnowBoarderGame1.gif)
 ![SnowBoarder2](./Videos/SnowBoarderGame2.gif)
 ![SnowBoarder3](./Videos/SnowBoarderGame3.gif)
 
 ### Tile Vania
-2D side-scrolling platformer. The player must jump and climb to avoid obstacles and enemies (or shoot them!) in order to reach the end of the level. A level loading system is used so that the when we finish a particular level, the following one is loaded, and so on. To create the levels we used the tilemap system in Unity. Other key aspects of this game include handling animations, persisting game sessions, and State-Driven cameras.
+2D side-scrolling platformer. The player must jump and climb to avoid obstacles and enemies (or shoot them!) in order to reach the end of the level, with multiple levels to be played.
+Some of the key lessons include:
+* Using a level loading system so that the when we finish a particular level, the following one is loaded, and so on
+* Using the tilemap system in Unity to create the levels
+* Handling animations, transitions, for the player and enemies
+* Persisting game sessions
+* Using State-Driven cameras.
 
 ![TileVaniaImagen](./Images/Games/TileVania.png)
 ![TileVaniVideo1](./Videos/TileVaniaGame%201.gif)
@@ -105,5 +117,14 @@ Snow boarding game where the player needs to reach the end of the track while do
 
 
 ### Laser Defender
+Laser defender is a top-down, arcade style, space shooter. The core premise of the game is to avoid waves of enemies for as long as possible by dodging bullets and collisions, and shooting enemies to earn points. 
+Some of the key lessons learned include:
+* Instantiating objects at runtime
+* Using pathfinding so enemies follow a set path
+* Adding music and sound effects
+* Using particle systems and camera effects
+* This is also the first time we're adding a menu scene and game over one as well, instead of starting the game right down the bat. In the menu, the player can either start the game or quit, and once the player dies their score is shown and can opt to play again.
+* Finally, once we had our core working game finished, we worked with building the game for different platforms, and also sharing our game through the internet.
+
 <img src="./Videos/LaserDefender1.gif" width="300"/> <img src="./Videos/LaserDefender2.gif" width="300"/> <img src="./Videos/LaserDefender3.gif" width="300"/>
 
