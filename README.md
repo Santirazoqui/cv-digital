@@ -3,7 +3,7 @@
 
 - [CV Digital](#CV-Digital)
 - [Portfolio](#Portfolio)
-  - [Gamedev.tv Course - Unity 2D game development](#Gamedev.tv-Udemy-Course---Unity-2D-game-development)
+  - [Gamedev.tv Course - Unity 2D game development](#Gamedev.tv%20Udemy%20Course%20-%20Unity%202D%20game%20development)
   - [Game Jams](#Game-Jams)
 
 # CV Digital
