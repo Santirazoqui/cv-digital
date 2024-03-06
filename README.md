@@ -128,3 +128,22 @@ Some of the key lessons learned include:
 
 <img src="./Videos/LaserDefender1.gif" width="300"/> <img src="./Videos/LaserDefender2.gif" width="300"/> <img src="./Videos/LaserDefender3.gif" width="300"/>
 
+## Game Jams
+### Brackeys Game Jam February 2024
+This was my first ever game jam! I decided it was finally time for me to participate in one, since they are a great opportunity for training your creative output and meeting new people. The theme for this jam was “What’s behind the door?”. My idea was to create a simple, comical, think-out-the-box puzzle game. I designed most of the art, minus the props that I used, and the music and sound effects were all taken from the internet (with the right licenses of course). 
+
+Since I was still new to game development, I made sure to keep it simple and not bite more than I could chew. Most of my first ideas were fun, but unfeasible for someone like me at the time. This is an important lesson for me.
+
+Overall, I’m proud of what I created. This was my first experience designing something entirely of my own, without any course to follow or outside input. I made some mistakes, of course, but they are great lessons for myself since I own this creation, instead of just being a template one follows.  I learned a lot about game design, art, music, etc, in these few weeks. From providing hints to players to making sure the art design is coherent… There are things I overlooked, others I have to work on, and some that I did right.  And it made me realize the importance of feedback! Learning from this experience was all possible thanks to other creators. Sometimes it’s hard to critique your own creations, so it’s great to have some help from others.
+
+[Link to my Itch.io submission](https://itch.io/jam/brackeys-11/rate/2535781)
+
+Score:
+<br>
+<img src="./Images/Games/WhatsBehindTheDoor%20Score.png"/>
+
+
+![WhatsBehindTheDoor1](./Videos/WhatsBehindTheDoor(1).gif)
+![WhatsBehindTheDoor2](./Videos/WhatsBehindTheDoor(2).gif)
+![WhatsBehindTheDoor4](./Videos/WhatsBehindTheDoor(4).gif)
+![WhatsBehindTheDoor5](./Videos/WhatsBehindTheDoor(5).gif)
