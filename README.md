@@ -3,7 +3,7 @@
 
 - [CV Digital](#CV-Digital)
 - [Portfolio](#Portfolio)
-  - [Gamedev.tv Course - Unity 2D game development](#Gamedev.tv-Udemy-Course-(Unity-2D-game-development))
+  - [Gamedev.tv Course - Unity 2D game development](#gamedevtv-udemy-course---unity-2d-game-development)
   - [Game Jams](#Game-Jams)
 
 # CV Digital
@@ -89,7 +89,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santirazoqui&show_icons=true&locale=en" alt="santirazoqui" /></p>
 
 # Portfolio
-## Gamedev.tv Udemy Course (Unity 2D game development)
+## Gamedev.tv Udemy Course - Unity 2D game development
 ### Snow Boarder
 Snowboarding game where the player needs to reach the end of the track while doing tricks. 
 Some of the key lessons include: 
