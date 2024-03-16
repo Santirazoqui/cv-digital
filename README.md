@@ -130,6 +130,10 @@ Some of the key lessons learned include:
 
 <img src="./Videos/LaserDefender1.gif" width="300"/> <img src="./Videos/LaserDefender2.gif" width="300"/> <img src="./Videos/LaserDefender3.gif" width="300"/>
 
+## Gamedev.tv Udemy Course - Unity Mobile game development
+### Simple Driving
+<img src="./Videos/SimpleDriving1.gif"/> <img src="./Videos/SimpleDriving2.gif"/> <img src="./Videos/SimpleDriving3.gif"/>
+
 ## Game Jams
 ### Brackeys Game Jam February 2024
 This was my first ever game jam! I decided it was finally time for me to participate in one, since they are a great opportunity for training your creative output and meeting new people. The theme for this jam was “What’s behind the door?”. My idea was to create a simple, comical, think-out-the-box puzzle game. I designed most of the art, minus the props that I used, and the music and sound effects were all taken from the internet (with the right licenses of course). 
