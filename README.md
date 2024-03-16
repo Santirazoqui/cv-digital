@@ -4,7 +4,7 @@
 - [CV Digital](#CV-Digital)
 - [Portfolio](#Portfolio)
   - [Gamedev.tv Course - Unity 2D game development](#gamedevtv-udemy-course---unity-2d-game-development)
-  - [Game Jams](#Game-Jams)
+  - [Game Jams](#game-jams)
 
 # CV Digital
 <img src="./Images/portrait.jpg" height="300px" align="left" margin="50px" />
@@ -132,6 +132,9 @@ Some of the key lessons learned include:
 
 ## Gamedev.tv Udemy Course - Unity Mobile game development
 ### Simple Driving
+<img src="./Videos/SimpleDriving1.gif"  margin-left="300" overflow="hidden"/>
+<img src="./Videos/SimpleDriving2.gif"  margin-left="300" overflow="hidden"/>
+<img src="./Videos/SimpleDriving3.gif"  margin-left="300" overflow="hidden"/>
 
 ## Game Jams
 ### Brackeys Game Jam February 2024
