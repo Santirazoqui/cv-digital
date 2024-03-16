@@ -131,7 +131,13 @@ Some of the key lessons learned include:
 <img src="./Videos/LaserDefender1.gif" width="300"/> <img src="./Videos/LaserDefender2.gif" width="300"/> <img src="./Videos/LaserDefender3.gif" width="300"/>
 
 ## Gamedev.tv Udemy Course - Unity Mobile game development
-### Simple Driving
+### Race Driver
+Race Drive is a simple mobile driving game where you have to clear a course without crashing with any obstacles. Your aim is to survive as long as possible to get more and more points, as the game gets progressively more difficult with an increased speed. Being one of my first mobile games experiences, there's quite a lot I had the opportunity to learn. Some of the key lessons where:
+* Working with touch input for mobile phones
+* Building my game to Android and iOS devices
+* Creating an energy system which takes some (real) time to replenish
+* Creating notifications for Android and iOS devices when certain events occur (like energy being full again)
+
 <img src="./Videos/SimpleDriving1.gif"  width="300"/> <img src="./Videos/SimpleDriving2.gif"  width="300"/> <img src="./Videos/SimpleDriving3.gif"  width="300"/>
 
 ## Game Jams
