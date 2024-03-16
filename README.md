@@ -132,9 +132,7 @@ Some of the key lessons learned include:
 
 ## Gamedev.tv Udemy Course - Unity Mobile game development
 ### Simple Driving
-<img src="./Videos/SimpleDriving1.gif"  margin-left="300" overflow="hidden"/>
-<img src="./Videos/SimpleDriving2.gif"  margin-left="300" overflow="hidden"/>
-<img src="./Videos/SimpleDriving3.gif"  margin-left="300" overflow="hidden"/>
+<img src="./Videos/SimpleDriving1.gif"  width="300"/> <img src="./Videos/SimpleDriving2.gif"  width="300"/> <img src="./Videos/SimpleDriving3.gif"  width="300"/>
 
 ## Game Jams
 ### Brackeys Game Jam February 2024
